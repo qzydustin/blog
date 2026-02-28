@@ -3,16 +3,17 @@ title = "How to Avoid Being Killed by the OOM Killer - Adding Swap Space"
 date = 2024-01-13T03:27:26+00:00
 
 [taxonomies]
-tags = ["Technology"]
+categories = ["Dev"]
+tags = ["linux", "vps", "self-hosting"]
 +++
 
 In Linux systems, memory management is crucial for maintaining system stability and performance. One component at the heart of this process is the "Out-Of-Memory (OOM) Killer." This process steps in when your system is critically low on memory. It selectively terminates one or more processes to free up memory and prevent a system crash. However, the intervention of the OOM Killer can be disruptive, as it might terminate essential or high-priority processes.
 
+<!--more-->
+
 ## The Role of Swap Space
 
 One effective way to mitigate the risk of encountering the OOM Killer is by adding swap space. Swap space acts as an overflow area for when your system's physical RAM is fully utilized. In essence, it's a portion of the hard drive that's used to temporarily store data that can't be held in RAM. By having additional swap space, your system can handle memory spikes more gracefully, reducing the likelihood of the OOM Killer being triggered.
-
-<!--more-->
 ## Adding Swap Space on Debian VPS
 
 Here’s a practical guide on how to add a 1GB swap space on a Debian Virtual Private Server (VPS):

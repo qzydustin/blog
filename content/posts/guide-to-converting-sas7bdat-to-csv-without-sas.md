@@ -3,10 +3,13 @@ title = "Guide to Converting .sas7bdat to .csv Without SAS"
 date = 2023-08-27T15:16:21+00:00
 
 [taxonomies]
-tags = ["Technology"]
+categories = ["Dev"]
+tags = ["data", "tooling"]
 +++
 
 The .sas7bdat format is integral to SAS (Statistical Analysis System) software, widely used in data analysis and statistical modeling. This proprietary format excels in handling complex datasets, with features like:
+
+<!--more-->
 
 - **Binary Format:** Efficient storage of large datasets.
 - **Rich Metadata:** Contains comprehensive information about the dataset structure and variables.
@@ -16,7 +19,6 @@ The .sas7bdat format is integral to SAS (Statistical Analysis System) software, 
 
 However, the proprietary nature of .sas7bdat files means that accessing and processing this data format usually requires SAS software, which might not be feasible for all users due to licensing or compatibility issues.
 
-<!--more-->
 CSV (Comma-Separated Values) is a widely accepted format for storing tabular data in plain text, making it a popular choice for data exchange. Its key features include:
 
 - **Plain Text Format:** Ensures universal accessibility and ease of editing.

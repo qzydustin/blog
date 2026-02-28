@@ -3,10 +3,13 @@ title = "Step-by-Step Trojan Proxy Setup Guide"
 date = 2022-07-18T16:58:55-07:00
 
 [taxonomies]
-tags = ["Technology"]
+categories = ["Dev"]
+tags = ["proxy", "networking", "privacy"]
 +++
 
 In this tutorial, I'll walk you through setting up a Trojan proxy, an effective tool for bypassing network censorship. Trojan-gfw is adept at disguising internet traffic as HTTPS, making it challenging for Internet Service Providers (ISPs) to detect your activities.
+
+<!--more-->
 
 - **Installing Trojan**
 
@@ -16,7 +19,6 @@ In this tutorial, I'll walk you through setting up a Trojan proxy, an effective 
   apt install trojan
   ```
 
-<!--more-->
 - **Configuring Trojan**
 
   The default configuration file is located at /etc/trojan/config. Below is an example configuration. You'll need a random password and SSL certificate files, which you can obtain for free using acme.sh.

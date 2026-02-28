@@ -3,10 +3,13 @@ title = "Easy Steps to Secure Free Certificates with ACME.sh"
 date = 2022-07-18T17:12:32-07:00
 
 [taxonomies]
-tags = ["Technology"]
+categories = ["Dev"]
+tags = ["security", "tooling", "self-hosting"]
 +++
 
 This guide is dedicated to demonstrating how you can obtain free certificates essential for setting up HTTPS websites or configuring trojan proxies. By leveraging the efficiency of the acme.sh tool, you can quickly secure these certificates.
+
+<!--more-->
 
 - **Installation and Automatic Upgrade of acme.sh**
 
@@ -18,7 +21,6 @@ This guide is dedicated to demonstrating how you can obtain free certificates es
   acme.sh --upgrade --auto-upgrade
   ```
 
-<!--more-->
 - **Certificate Issuance via Cloudflare DNS API**
 
   - First, set up your [Cloudflare API](https://dash.cloudflare.com/profile). Ensure that your token has read access to Zone.Zone and write access to Zone.DNS.

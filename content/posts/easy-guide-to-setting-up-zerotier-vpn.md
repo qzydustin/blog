@@ -3,16 +3,18 @@ title = "Easy Guide to Setting Up ZeroTier VPN"
 date = 2022-09-26T15:28:32-07:00
 
 [taxonomies]
-tags = ["Technology"]
+categories = ["Dev"]
+tags = ["networking", "self-hosting", "security"]
 +++
 
 ZeroTier offers a seamless way to create secure networks linking various devices like on-premise systems, cloud platforms, desktops, and mobile devices. This connectivity enables team members to collaborate from virtually anywhere in the world on any device.
+
+<!--more-->
 
 ## Installation Process
 
 To get started, the simplest approach is to follow the setup instructions on the official [ZeroTier website](https://www.zerotier.com/download/).
 
-<!--more-->
 ## Device Access through ZeroTier IP
 
 Once you install ZeroTier and join a network, your device receives a ZeroTier IP. This IP places all devices in the same virtual LAN if they are part of the same ZeroTier network. It facilitates access to this device using its ZeroTier IP. For instance, I use this setup to play Warcraft III with friends. Note that for Warcraft III versions below 1.29, [WC3proxy](https://github.com/FooleAU/wc3proxy) is necessary.

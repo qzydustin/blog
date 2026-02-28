@@ -3,12 +3,14 @@ title = "Comprehensive Guide to Cellphone Plans"
 date = 2022-10-08T16:20:35-07:00
 
 [taxonomies]
-tags = ["Life"]
+categories = ["Note"]
+tags = ["devices", "networking"]
 +++
 
 A cellphone plan is necessary for everyone living in a modern city. How to pick a suitable plan is a skillful question. And if you want, you can purchase one through me at a fair price.
 
 <!--more-->
+
 ## United States
 
 ### Introduction

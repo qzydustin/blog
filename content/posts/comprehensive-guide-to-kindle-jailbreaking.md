@@ -3,12 +3,14 @@ title = "Comprehensive Guide to Kindle Jailbreaking"
 date = 2022-10-02T12:17:25-07:00
 
 [taxonomies]
-tags = ["Technology"]
+categories = ["Device"]
+tags = ["devices", "firmware", "security"]
 +++
 
 This tutorial provides a detailed walkthrough on jailbreaking the Kindle, allowing you to unlock additional functionalities and customize your device beyond the standard features. The process takes advantage of a vulnerability present in firmware version 5.14.2.
 
 <!--more-->
+
 ## Jailbreak Process
 
 **Note:** The jailbreak method described only works up to firmware version 5.14.2.

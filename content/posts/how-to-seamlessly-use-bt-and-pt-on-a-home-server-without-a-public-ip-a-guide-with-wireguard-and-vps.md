@@ -3,14 +3,16 @@ title = "How to Seamlessly Use BT and PT on a Home Server Without a Public IP - 
 date = 2024-11-11T19:52:11+00:00
 
 [taxonomies]
-tags = ["Technology"]
+categories = ["Dev"]
+tags = ["networking", "vps", "self-hosting"]
 +++
 
 Running a BitTorrent (BT) or Private Tracker (PT) server at home can be challenging if your home network doesn’t have a public IP. Public IPs are essential for direct peer-to-peer connections, which significantly improve torrent connectivity. However, with the right setup, you can achieve similar connectivity and even gain extra benefits, like access to IPv6 peers, by using a VPS and WireGuard.
 
+<!--more-->
+
 This guide will show you how to set up WireGuard on a VPS to relay torrent traffic to your home server, effectively giving your home server a “public” presence through the VPS.
 
-<!--more-->
 ## Why a Public IP is Important for BT/PT
 
 In torrenting, the ability to connect to other peers is crucial:

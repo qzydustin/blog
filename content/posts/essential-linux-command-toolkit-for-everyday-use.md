@@ -3,12 +3,14 @@ title = "Essential Linux Command Toolkit for Everyday Use"
 date = 2022-07-28T15:02:35-07:00
 
 [taxonomies]
-tags = ["Technology"]
+categories = ["Dev"]
+tags = ["linux", "tooling"]
 +++
 
 This compilation is designed to be a handy reference for common Linux commands, helping both new and seasoned users navigate various system tasks with ease.
 
 <!--more-->
+
 ## Systemd
 
 Systemd, the system and service manager for Linux, executes configuration files found in /etc/systemd/system during startup.

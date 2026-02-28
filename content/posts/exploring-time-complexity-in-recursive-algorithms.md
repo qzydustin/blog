@@ -3,10 +3,13 @@ title = "Exploring Time Complexity in Recursive Algorithms"
 date = 2022-07-08T22:19:45-07:00
 
 [taxonomies]
-tags = ["Academic"]
+categories = ["Dev"]
+tags = ["algorithms", "data"]
 +++
 
 Recursive algorithms are a fascinating aspect of computer science, often leading to elegant solutions to complex problems. To better understand their time complexity, let's delve into a simple example question.
+
+<!--more-->
 
 ## Question: Calculating the nth Power of x
 
@@ -14,7 +17,6 @@ Recursive algorithms are a fascinating aspect of computer science, often leading
 
 A straightforward approach involves using a loop. Here's how it's implemented in Java:
 
-<!--more-->
 ```java
 int function(int x, int n){
   if (n == 0){

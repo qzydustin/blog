@@ -3,16 +3,18 @@ title = "Essential Algorithms for Array Manipulation"
 date = 2022-07-12T12:25:04-07:00
 
 [taxonomies]
-tags = ["Academic"]
+categories = ["Dev"]
+tags = ["algorithms", "data"]
 +++
 
 Arrays, as foundational data structures in programming, exhibit two key characteristics: zero-based indexing and contiguous memory allocation. This guide explores essential algorithms for manipulating arrays, demonstrating efficient solutions to common problems.
+
+<!--more-->
 
 ## Question: Array Search
 
 Imagine an array `nums` of integers sorted in ascending order and a target integer. The task is to develop a function to search for `target` in `nums`. If `target` is found, return its index; otherwise, return `-1`.
 
-<!--more-->
 **Constraints:**
 
 - `1 <= nums.length <= 104`

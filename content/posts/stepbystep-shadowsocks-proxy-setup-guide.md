@@ -3,10 +3,13 @@ title = "Step-by-Step Shadowsocks Proxy Setup Guide"
 date = 2022-07-28T14:45:05-07:00
 
 [taxonomies]
-tags = ["Technology"]
+categories = ["Dev"]
+tags = ["proxy", "networking", "privacy"]
 +++
 
 Building on our previous discussion of Trojan-gfw, this guide focuses on Shadowsocks-libev, an alternative proxy tool that encrypts traffic to evade ISP network censorship. However, users should be aware that Shadowsocks-libev may not be effective for bypassing Chinese network censorship and could result in the server's IP being blocked in mainland China.
+
+<!--more-->
 
 - **Installing Shadowsocks**
 
@@ -16,7 +19,6 @@ Building on our previous discussion of Trojan-gfw, this guide focuses on Shadows
   apt install shadowsocks-libev
   ```
 
-<!--more-->
 - **Configuring Shadowsocks**
 
   The standard configuration file is located at /etc/shadowsocks-libev/config.json. Below is an example configuration, requiring a unique password and port number.

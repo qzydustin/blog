@@ -3,14 +3,16 @@ title = "Optimizing a 2012 Mac Mini Server for PVE"
 date = 2024-11-11T19:29:42+00:00
 
 [taxonomies]
-tags = ["Technology"]
+categories = ["Device"]
+tags = ["apple", "devices", "self-hosting"]
 +++
 
 The 2012 Mac Mini Server remains a popular choice for Proxmox Virtual Environment (PVE) installations. This model stands out for its upgradeability: it allows for both memory and storage upgrades, making it particularly versatile. It’s also the last Mac Mini model with this flexibility, as the 2014 model saw soldered RAM, limited CPU performance, and eventually, Apple’s transition to ARM architecture in later versions, which limits virtualization capabilities. 
 
+<!--more-->
+
 This guide will walk you through steps to optimize your 2012 Mac Mini, from repository configurations to community scripts that enhance functionality and ease of use.
 
-<!--more-->
 ## Step 1: Switching to the Free Proxmox VE No-Subscription Repository
 
 Proxmox provides a subscription model for enterprise repositories, but you can switch to a no-subscription repository for free, community-supported updates.

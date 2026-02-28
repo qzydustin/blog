@@ -3,10 +3,13 @@ title = "Step-by-Step Guide to Flashing Xiaomi Router Nano Bootloader"
 date = 2022-09-28T14:43:27-07:00
 
 [taxonomies]
-tags = ["Technology"]
+categories = ["Device"]
+tags = ["firmware", "devices", "networking"]
 +++
 
 The Xiaomi router nano, with its MTK 7628 chipset, is a compact yet powerful device. This tutorial will guide you through gaining root access and flashing its bootloader, enhancing its capabilities and performance.
+
+<!--more-->
 
 ## Gaining Root Access
 
@@ -17,7 +20,6 @@ To enable SSH on Xiaomi's official firmware, two prerequisites must be met:
 
 Once SSH is enabled, the root password can be obtained through an algorithm that calculates it based on the router's S/N.
 
-<!--more-->
 ```python
 import sys
 import hashlib

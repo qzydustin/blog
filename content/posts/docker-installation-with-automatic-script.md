@@ -3,10 +3,13 @@ title = "Docker Installation with Automatic Script"
 date = 2022-07-07T20:36:36-07:00
 
 [taxonomies]
-tags = ["Technology"]
+categories = ["Dev"]
+tags = ["linux", "tooling", "self-hosting"]
 +++
 
 Docker revolutionizes the way we think about software deployment with its innovative platform-as-a-service (PaaS) model. Utilizing OS-level virtualization, Docker packages software in lightweight, efficient containers, offering a flexible and portable solution for software deployment.
+
+<!--more-->
 
 To effortlessly install Docker on various Linux systems, including Ubuntu and Debian, you can use this handy automatic install script:
 
@@ -15,7 +18,6 @@ curl -fsSL https://get.docker.com -o get-docker.sh
 sh get-docker.sh
 ```
 
-<!--more-->
 ## Mastering Docker Compose: Streamlining Multi-container Applications
 
 Docker Compose extends Docker's capabilities by enabling the definition and orchestration of multi-container applications. It allows you to craft a YAML file that precisely outlines your services, making it possible to launch or dismantle your application stack with just one command.

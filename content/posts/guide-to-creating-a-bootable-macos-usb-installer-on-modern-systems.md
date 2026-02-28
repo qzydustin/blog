@@ -3,12 +3,14 @@ title = "Guide to Creating a Bootable macOS USB Installer on Modern Systems"
 date = 2023-07-19T17:06:26+00:00
 
 [taxonomies]
-tags = ["Technology"]
+categories = ["Device"]
+tags = ["apple", "devices", "tooling"]
 +++
 
 Creating a macOS USB Installer can be more challenging than its Windows counterpart, particularly when dealing with older macOS versions on the latest systems. For instance, I faced difficulties while attempting to reinstall macOS 10.7 Lion on a Mac Pro 2012 using a MacBook Air with an M1 chip and the latest macOS. This article aims to document the solutions I found for these challenges, which may help others facing similar issues.
 
 <!--more-->
+
 ## Downloading the macOS Installer
 
 The initial hurdle is obtaining the macOS installer. Apple provides direct download links for macOS versions 10.7 to 10.12 and App Store links for newer versions (10.13 and later). Here's a brief overview of some macOS versions:

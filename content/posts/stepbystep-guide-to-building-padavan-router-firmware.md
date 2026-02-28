@@ -3,12 +3,14 @@ title = "Step-by-Step Guide to Building Padavan Router Firmware"
 date = 2022-10-05T10:03:05-07:00
 
 [taxonomies]
-tags = ["Technology"]
+categories = ["Device"]
+tags = ["firmware", "devices", "networking"]
 +++
 
 [Padavan](https://bitbucket.org/padavan/rt-n56u/src/master/) is a notable open-source firmware project, ideal for routers with MTK chips. While it's officially designed for certain ASUS routers, it can be adapted for most MTK chip routers (Ralink RT3883, MT7620, MT7621, MT7628) through configuration adjustments. This tutorial focuses on building Padavan firmware for the MI-NANO router, a device that, despite its impressive design, suffers from outdated official firmware and lack of IPv6 support.
 
 <!--more-->
+
 ## Build Firmware Process
 
 1. **Install Tools and Clone Source to Linux System:**  

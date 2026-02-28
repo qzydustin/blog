@@ -3,16 +3,18 @@ title = "Guide to Optimizing Sony Digital Paper for Chinese"
 date = 2024-06-18T22:49:50+00:00
 
 [taxonomies]
-tags = ["Technology"]
+categories = ["Device"]
+tags = ["devices", "tooling"]
 +++
 
 I got a Sony DPT-RP1 digital paper yesterday. It is such a great tool to read A4 PDF files due to its large screen. The only shortcoming is that it is the Japanese version. The Japanese version has Japanese and English language and input methods, the US version only has English language and input methods, and the Chinese version has Chinese and English language and input methods. When opening a book with Chinese chapters, the Chinese characters in the Table of Contents cannot be displayed normally, but the Chinese and American versions can do that.
+
+<!--more-->
 
 The reason why Chinese cannot be displayed correctly is that the same Chinese character is written in different ways in various countries and regions in East Asia, which are similar but different. The Japanese version of the system will give preference to Japanese Chinese characters, and if they do not exist, the standard simplified Chinese characters will be used.
 
 Through my research, I found that the firmware on Sony's website in China, Japan, and the US is all the same. This means that the regional version identifier should be stored somewhere other than the firmware. The regional version limitation cannot be solved by flashing the firmware. 
 
-<!--more-->
 ## Solution
 
 First, we need to use the open-source tool [dpt-tools](https://github.com/HappyZ/dpt-tools) to get root access to the system. [Guide](https://github.com/HappyZ/dpt-tools/wiki)

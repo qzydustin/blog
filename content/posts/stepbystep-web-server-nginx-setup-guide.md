@@ -3,16 +3,18 @@ title = "Step-by-Step Web Server Nginx Setup Guide"
 date = 2022-11-12T01:44:32-07:00
 
 [taxonomies]
-tags = ["Technology"]
+categories = ["Dev"]
+tags = ["linux", "self-hosting", "tooling"]
 +++
 
 Nginx is a high-performance web server known for its efficiency, especially in terms of memory usage, fast startup times, and handling high concurrency. This makes it a popular choice for various internet projects.
+
+<!--more-->
 
 - **Installation**
 
   Nginx is available in the package repositories of most Linux distributions. For instance, in Debian-based systems, you can install Nginx using `apt install nginx`.
 
-<!--more-->
 - **Common Commands**
 
   Here are some essential Nginx commands:
