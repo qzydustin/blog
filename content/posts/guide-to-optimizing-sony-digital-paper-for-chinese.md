@@ -1,6 +1,7 @@
 +++
 title = "Guide to Optimizing Sony Digital Paper for Chinese"
 date = 2024-06-18T22:49:50+00:00
+aliases = ["/technology/guide-to-optimizing-sony-digital-paper-for-chinese/"]
 
 [taxonomies]
 categories = ["Device"]

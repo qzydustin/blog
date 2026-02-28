@@ -1,6 +1,7 @@
 +++
 title = "Step-by-Step Guide to Building Padavan Router Firmware"
 date = 2022-10-05T10:03:05-07:00
+aliases = ["/technology/stepbystep-guide-to-building-padavan-router-firmware/"]
 
 [taxonomies]
 categories = ["Device"]

@@ -1,6 +1,7 @@
 +++
 title = "Easy Steps to Secure Free Certificates with ACME.sh"
 date = 2022-07-18T17:12:32-07:00
+aliases = ["/technology/easy-steps-to-secure-free-certificates-with-acmesh/"]
 
 [taxonomies]
 categories = ["Dev"]

@@ -1,6 +1,7 @@
 +++
 title = "Essential Algorithms for Array Manipulation"
 date = 2022-07-12T12:25:04-07:00
+aliases = ["/academic/essential-algorithms-for-array-manipulation/"]
 
 [taxonomies]
 categories = ["Dev"]

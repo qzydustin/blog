@@ -1,6 +1,7 @@
 +++
 title = "How to Seamlessly Use BT and PT on a Home Server Without a Public IP - A Guide with WireGuard and VPS"
 date = 2024-11-11T19:52:11+00:00
+aliases = ["/technology/how-to-seamlessly-use-bt-and-pt-on-a-home-server-without-a-public-ip-a-guide-with-wireguard-and-vps/"]
 
 [taxonomies]
 categories = ["Dev"]

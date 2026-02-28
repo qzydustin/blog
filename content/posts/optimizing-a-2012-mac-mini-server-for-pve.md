@@ -1,6 +1,7 @@
 +++
 title = "Optimizing a 2012 Mac Mini Server for PVE"
 date = 2024-11-11T19:29:42+00:00
+aliases = ["/technology/optimizing-a-2012-mac-mini-server-for-pve/"]
 
 [taxonomies]
 categories = ["Device"]

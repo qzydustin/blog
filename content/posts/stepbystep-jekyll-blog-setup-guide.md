@@ -1,6 +1,7 @@
 +++
 title = "Step-by-Step Jekyll Blog Setup Guide"
 date = 2022-07-06T16:29:28-07:00
+aliases = ["/technology/stepbystep-jekyll-blog-setup-guide/"]
 
 [taxonomies]
 categories = ["Dev"]

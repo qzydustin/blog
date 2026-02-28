@@ -1,6 +1,7 @@
 +++
 title = "Step-by-Step Guide to Flashing Xiaomi Router Nano Bootloader"
 date = 2022-09-28T14:43:27-07:00
+aliases = ["/technology/stepbystep-guide-to-flashing-xiaomi-router-nano-bootloader/"]
 
 [taxonomies]
 categories = ["Device"]

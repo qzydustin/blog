@@ -1,6 +1,7 @@
 +++
 title = "Docker Installation with Automatic Script"
 date = 2022-07-07T20:36:36-07:00
+aliases = ["/technology/docker-installation-with-automatic-script/"]
 
 [taxonomies]
 categories = ["Dev"]

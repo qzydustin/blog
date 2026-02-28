@@ -1,6 +1,7 @@
 +++
 title = "Guide to Creating a Bootable macOS USB Installer on Modern Systems"
 date = 2023-07-19T17:06:26+00:00
+aliases = ["/technology/guide-to-creating-a-bootable-macos-usb-installer-on-modern-systems/"]
 
 [taxonomies]
 categories = ["Device"]

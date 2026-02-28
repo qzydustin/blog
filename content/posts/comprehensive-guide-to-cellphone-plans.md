@@ -1,6 +1,7 @@
 +++
 title = "Comprehensive Guide to Cellphone Plans"
 date = 2022-10-08T16:20:35-07:00
+aliases = ["/life/comprehensive-guide-to-cellphone-plans/"]
 
 [taxonomies]
 categories = ["Note"]

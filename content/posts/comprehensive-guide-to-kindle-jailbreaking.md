@@ -1,6 +1,7 @@
 +++
 title = "Comprehensive Guide to Kindle Jailbreaking"
 date = 2022-10-02T12:17:25-07:00
+aliases = ["/technology/comprehensive-guide-to-kindle-jailbreaking/"]
 
 [taxonomies]
 categories = ["Device"]

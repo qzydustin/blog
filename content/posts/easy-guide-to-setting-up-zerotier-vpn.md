@@ -1,6 +1,7 @@
 +++
 title = "Easy Guide to Setting Up ZeroTier VPN"
 date = 2022-09-26T15:28:32-07:00
+aliases = ["/technology/easy-guide-to-setting-up-zerotier-vpn/"]
 
 [taxonomies]
 categories = ["Dev"]

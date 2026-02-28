@@ -1,6 +1,7 @@
 +++
 title = "Exploring Time Complexity in Recursive Algorithms"
 date = 2022-07-08T22:19:45-07:00
+aliases = ["/academic/exploring-time-complexity-in-recursive-algorithms/"]
 
 [taxonomies]
 categories = ["Dev"]

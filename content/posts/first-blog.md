@@ -1,6 +1,7 @@
 +++
 title = "First Blog"
 date = 2022-07-06T15:55:19-07:00
+aliases = ["/log/first-blog/"]
 
 [taxonomies]
 categories = ["Note"]

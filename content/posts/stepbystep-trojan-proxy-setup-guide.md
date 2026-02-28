@@ -1,6 +1,7 @@
 +++
 title = "Step-by-Step Trojan Proxy Setup Guide"
 date = 2022-07-18T16:58:55-07:00
+aliases = ["/technology/stepbystep-trojan-proxy-setup-guide/"]
 
 [taxonomies]
 categories = ["Dev"]
