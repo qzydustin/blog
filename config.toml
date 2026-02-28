@@ -1,0 +1,72 @@
+# The URL the site will be built for
+base_url = "https://blog.qzydustin.com"
+
+# The title of the site
+title = "Q's Blog"
+
+# The description of the site
+description = "A CSer Personal Blog"
+
+author = "Zhenyu Qi"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to minify the HTML when building the site
+minify_html = false
+
+# Theme
+theme = "hacker"
+
+# Whether to generate an Atom feed
+generate_feeds = true
+
+# Taxonomies
+taxonomies = [{ name = "tags" }]
+
+[markdown]
+# Whether to do syntax highlighting
+[markdown.highlighting]
+theme = "dark-plus"
+
+# Whether to render emojis
+render_emoji = true
+
+# Whether footnotes are rendered in the GitHub-style
+bottom_footnotes = true
+
+[extra]
+title_separator = "-"
+
+# Logo image path (relative to static/)
+logo = "images/avatar.jpg"
+
+# Google Analytics tracking ID
+google_analytics = "G-H2KWSPCSYD"
+
+# Menu items
+menu = [{ url = "/about", name = "About" }, { url = "/tags", name = "Tags" }]
+
+language_code = "en-US"
+
+# Enable OpenGraph metadata
+opengraph = true
+
+timezone = "America/Phoenix"
+
+# provide link to edit page on github
+edit_page = true
+
+# Social links
+social_links = [
+  { platform = "email", user_id = "qzydustin@hotmail.com" },
+  { platform = "github", user_id = "qzydustin" },
+  { platform = "linkedin", user_id = "qzydustin" },
+  { platform = "twitter", user_id = "qzydustin" },
+  { platform = "feed", user_id = true },
+]
+
+# GitHub settings
+[extra.github]
+username = "qzydustin"
+repo = "qzydustin.github.io"

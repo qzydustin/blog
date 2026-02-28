@@ -1,3 +1,7 @@
+# Zola
+public/
+
+# Jekyll (archived)
 _site
 .sass-cache
 .jekyll-cache
@@ -10,7 +14,7 @@ vendor
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
 
 # Thumbnails
 ._*
