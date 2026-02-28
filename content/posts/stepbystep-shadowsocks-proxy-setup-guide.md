@@ -4,7 +4,7 @@ date = 2022-07-28T14:45:05-07:00
 aliases = ["/technology/stepbystep-shadowsocks-proxy-setup-guide/"]
 
 [taxonomies]
-categories = ["Dev"]
+categories = ["DevOps"]
 tags = ["proxy", "networking", "privacy"]
 +++
 

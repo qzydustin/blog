@@ -4,7 +4,7 @@ date = 2024-11-11T19:52:11+00:00
 aliases = ["/technology/how-to-seamlessly-use-bt-and-pt-on-a-home-server-without-a-public-ip-a-guide-with-wireguard-and-vps/"]
 
 [taxonomies]
-categories = ["Dev"]
+categories = ["DevOps"]
 tags = ["networking", "vps", "self-hosting"]
 +++
 

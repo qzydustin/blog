@@ -4,8 +4,8 @@ date = 2022-07-06T16:29:28-07:00
 aliases = ["/technology/stepbystep-jekyll-blog-setup-guide/"]
 
 [taxonomies]
-categories = ["Dev"]
-tags = ["blogging", "apple", "tooling"]
+categories = ["DevOps"]
+tags = ["blogging", "tooling"]
 +++
 
 Jekyll, an elegant and efficient static site generator, serves as an ideal platform for bloggers and developers looking for simplicity and power in their web projects. In this guide, I’ll take you through the process of setting up a Jekyll blog on a Macbook Air M1, leveraging the latest macOS environment. My aim is to provide a clear and concise path to get your Jekyll blog up and running, ensuring a smooth and straightforward experience. Let’s get started on this exciting journey of blogging with Jekyll on a powerful yet user-friendly setup!

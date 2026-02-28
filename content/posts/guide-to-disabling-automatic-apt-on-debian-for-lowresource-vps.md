@@ -4,7 +4,7 @@ date = 2023-06-10T17:30:54+00:00
 aliases = ["/technology/guide-to-disabling-automatic-apt-on-debian-for-lowresource-vps/"]
 
 [taxonomies]
-categories = ["Dev"]
+categories = ["DevOps"]
 tags = ["linux", "vps", "self-hosting"]
 +++
 

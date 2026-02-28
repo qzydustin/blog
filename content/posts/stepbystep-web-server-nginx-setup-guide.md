@@ -4,7 +4,7 @@ date = 2022-11-12T01:44:32-07:00
 aliases = ["/technology/stepbystep-web-server-nginx-setup-guide/"]
 
 [taxonomies]
-categories = ["Dev"]
+categories = ["DevOps"]
 tags = ["linux", "self-hosting", "tooling"]
 +++
 

@@ -4,7 +4,7 @@ date = 2023-08-27T15:16:21+00:00
 aliases = ["/technology/guide-to-converting-sas7bdat-to-csv-without-sas/"]
 
 [taxonomies]
-categories = ["Dev"]
+categories = ["CS"]
 tags = ["data", "tooling"]
 +++
 

@@ -4,7 +4,7 @@ date = 2024-01-13T03:27:26+00:00
 aliases = ["/technology/how-to-avoid-being-killed-by-the-oom-killer-adding-swap-space/"]
 
 [taxonomies]
-categories = ["Dev"]
+categories = ["DevOps"]
 tags = ["linux", "vps", "self-hosting"]
 +++
 

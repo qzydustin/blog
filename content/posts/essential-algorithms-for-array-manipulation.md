@@ -4,7 +4,7 @@ date = 2022-07-12T12:25:04-07:00
 aliases = ["/academic/essential-algorithms-for-array-manipulation/"]
 
 [taxonomies]
-categories = ["Dev"]
+categories = ["CS"]
 tags = ["algorithms", "data"]
 +++
 

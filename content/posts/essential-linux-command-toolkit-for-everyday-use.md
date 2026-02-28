@@ -4,7 +4,7 @@ date = 2022-07-28T15:02:35-07:00
 aliases = ["/technology/essential-linux-command-toolkit-for-everyday-use/"]
 
 [taxonomies]
-categories = ["Dev"]
+categories = ["DevOps"]
 tags = ["linux", "tooling"]
 +++
 
