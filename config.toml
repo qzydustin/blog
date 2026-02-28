@@ -46,6 +46,7 @@ include_content = true
 radion_title = "Q's Blog"
 radion_menu = [
   { url = "/", name = "Home" },
+  { url = "/cv", name = "CV" },
   { url = "/categories", name = "Categories" },
   { url = "/tags", name = "Tags" },
   { url = "/about", name = "About" },
