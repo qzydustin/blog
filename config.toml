@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "/"
+base_url = "https://blog.qzydustin.com"
 
 # The title of the site
 title = "Q's Blog"
@@ -51,7 +51,7 @@ radion_menu = [
   { url = "/tags", name = "Tags" },
   { url = "/about", name = "About" },
 ]
-github = "https://github.com/qzydustin/qzydustin.github.io"
+github = "https://github.com/qzydustin/blog"
 codeblock = true
 enable_search = true
 theme = "toggle"

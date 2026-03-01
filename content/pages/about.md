@@ -8,7 +8,7 @@ no_page_info = true
 
 I am Zhenyu Qi, a Computer Science Engineering Ph.D. student.
 
-This is my personal blog powered by Cloudflare Pages, Zola blog generator, and Radion theme.
+This is my personal blog powered by GitHub Pages, Zola blog generator, and Radion theme.
 
 Hope you can get some useful information from here.
 

@@ -32,7 +32,7 @@ This tutorial provides a detailed walkthrough on jailbreaking the Kindle, allowi
    Navigate to Menu → Settings → Device Options → Restart.
 
 6. **[Katadelos's Jailbreak](https://www.mobileread.com/forums/showthread.php?t=346037):**
-   - Download and extract [watchthis-jailbreak-r03.zip](https://mega.nz/file/2ahlQKZS#jXyYLEp9rvRQCOzv7LNYBF-9fOfPhpigaLZMHZkN7fg).
+   - Download and extract [watchthis-jailbreak-r03.zip](https://mega.nz/file/2ahlQKZS#jXyYLEp9rvRQCOzv7LNYBF-9fOfPhpigaLZMHZkN7fg) (the part after `#` is the decryption key).
    - Create a directory named **.demo** at the root of the Kindle storage.
    - Transfer specific files to the Kindle as instructed.
    - Follow the steps to install the jailbreak script and resolve any errors if they occur.

@@ -19,7 +19,7 @@ A cellphone plan is necessary for everyone living in a modern city. How to pick 
 - Wireless Status  
   Each phone number can be distinguished by wireless status. The mobile phone numbers are wireless Y, and the landline numbers are wireless N. The wireless N numbers have lots of limits in registering accounts. Some companies like the bank, google will not allow users to use wireless N numbers to register accounts. Here is a check [website](https://freecarrierlookup.com). The status cannot be set but is related to your plan. You can change to a wireless plan to change this.
 - Caller ID  
-  Caller ID reduces unknown calls by displaying a caller's information, even if they're not on your contact list. Here is a check [website](https://apeiron.io/cnam). The phone plan provider can set this, but only some providers allow to set it or are free to set it.
+  Caller ID reduces unknown calls by displaying a caller's information, even if they're not on your contact list. The phone plan provider can set this, but only some providers allow to set it or are free to set it.
 - Do Not Call  
   To reduce receiving telemarketing calls, register [here](https://www.donotcall.gov).
 - Port in and out  
