@@ -23,10 +23,24 @@ jobs:
         with:
           submodules: recursive
 
-      - name: Build Zola + upload Pages artifact
-        uses: getzola/github-pages@066755243e69f508fd1a74739fbf1a65f656c790
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build Zola site
+        run: docker run --rm --user "$(id -u):$(id -g)" -v "$PWD:/app" -w /app ghcr.io/getzola/zola:v0.22.0 build
+
+      - name: Add extensionless feed aliases
+        run: |
+          find public -name atom.xml -exec sh -c '
+            for feed_file do
+              cp "$feed_file" "$(dirname "$feed_file")/feed"
+            done
+          ' sh {} +
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          zola_version: v0.22.0
+          path: public
 
   deploy:
     needs: build

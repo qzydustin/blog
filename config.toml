@@ -17,6 +17,7 @@ theme = "radion"
 
 # Whether to generate an Atom feed
 generate_feeds = true
+feed_filenames = ["atom.xml"]
 build_search_index = true
 
 # Taxonomies
