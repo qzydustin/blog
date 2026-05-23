@@ -1,0 +1,78 @@
+# Sample radion configuration
+# See: https://www.getzola.org/documentation/getting-started/configuration/
+base_url = "https://micahkepe.com/radion"
+compile_sass = true
+title = "radion theme"
+description = "A elegant light and dark theme for Zola"
+generate_feeds = true
+
+taxonomies = [
+    {name = "categories", feed = true},
+    {name = "tags", feed = true},
+]
+
+default_language = "en"
+build_search_index = true
+generate_sitemap = true
+generate_robots_txt = true
+minify_html = true
+
+[markdown]
+bottom_footnotes = true
+external_links_target_blank = true
+external_links_external = true
+external_links_no_referrer = true
+lazy_async_image = true
+github_alerts = true
+insert_anchor_links = "heading"
+
+[markdown.highlighting]
+style = "class"
+# Theme gallery: https://textmate-grammars-themes.netlify.app/
+dark_theme = "material-theme-palenight"
+light_theme = "everforest-light"
+error_on_missing_language = true
+
+[search]
+index_format = "elasticlunr_json"
+include_title = true
+include_description = true
+include_content = true
+
+[extra]
+author = "Micah Kepe"
+github = "https://github.com/micahkepe/radion"
+fediverse.creator = "@username@my.instance.example.com"
+fediverse.rel_me = "https://my.instance.example.com/@username"
+mastodon = "https://my.instance.example.com/@username"
+radion_menu = [
+    {url = "$BASE_URL/", name = "Home"},
+    {url = "$BASE_URL/categories", name = "Categories"},
+    {url = "$BASE_URL/tags", name = "Tags"},
+]
+radion_title = "My Example Site"
+
+# Nicer codeblocks with copy to clipboard
+codeblock = true
+
+# Enable MathJax support
+latex = true
+
+# Enable search bar
+enable_search = true
+
+# Light/Dark Mode set
+theme = "toggle" # options: {light, dark, auto, toggle}
+
+# Whether to display favicon
+favicon = true
+
+# Giscus comment support
+comments = true
+giscus_repo = "micahkepe/radion"
+giscus_repo_id = "R_kgDONK7lCQ"
+giscus_data_category_id = "DIC_kwDONK7lCc4CnfXf"
+
+# Post revision history
+revision_history = true
+blog_github_repo_url = "https://github.com/micahkepe/radion"
