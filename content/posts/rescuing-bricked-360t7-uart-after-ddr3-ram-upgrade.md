@@ -182,7 +182,7 @@ Pitfall log:
 - [OpenWrt Wiki - Qihoo 360T7](https://openwrt.org/toh/qihoo/360t7_1.0) - Official device page
 - [OpenWrt PR #22797](https://github.com/openwrt/openwrt/pull/22797) - DDR3 frequency fix + UBI layout
 
-## Addendum: NMBM Compatibility on 360T7
+## Appendix: NMBM Compatibility on 360T7
 
 While this rescue was about DDR frequency, the investigation also revealed another major pitfall in the 360T7 ecosystem: NMBM (NAND Mapping Block Management) compatibility.
 
@@ -207,7 +207,7 @@ If your 360T7 runs hanwckf U-Boot, don't flash OpenWrt UBI layout firmware alone
 
 Good news: PR #22797 (merged 2026-05-09) fixes both DDR3 frequency and adds UBI layout. Once a future OpenWrt stable release ships with this, memory-modded 360T7 units should no longer hit the frequency problem described here.
 
-## Addendum: 360T7 Firmware Comparison
+## Appendix: 360T7 Firmware Comparison
 
 Since we've touched on firmware compatibility, here's an overview of available firmware options for the 360T7.
 
