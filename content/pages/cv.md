@@ -56,51 +56,65 @@ Profiles: [LinkedIn](https://www.linkedin.com/in/qzydustin/) · [DBLP](https://d
 
 ## Publications
 
-### Journal Articles (Published)
+### Published
 
 - **Zhenyu Qi**, Haotang Li, Hao Qin, Kebin Peng, Sen He, Xue Qin.  
-  *Harnessing Large Language Model for Virtual Reality Exploration Testing: A Case Study*.  
-  **Automated Software Engineering**, Sep 2025.
+  *Harnessing Large Language Models for Virtual Reality Exploration Testing: A Case Study*.  
+  **Automated Software Engineering**, 33(1), Article 7, 2026.
 
-- Xin Du, Shan Zhong, Shengrong Gong, Yali Si, **Zhenyu Qi**.  
-  *Enhancing model learning in reinforcement learning through Q-function-guided trajectory alignment*.  
-  **Applied Intelligence**, Apr 2025.
+- Haotang Li, **Zhenyu Qi**, Tan Ahmed, Shuyuan Zhang, Sen He, Zhengkun Wang, Guoqiang Li.  
+  *Ultra-Wideband Radar-Based Sensing Poultry Litter Moisture Content Monitoring System*.  
+  **Animals**, 16(9), 1382, 2026.
 
-### Conference and Workshop Papers (Published)
-
-- Haotang Li, **Zhenyu Qi**, Sen He, Kebin Peng, Sheng Tan, Yili Ren, Tomas Cerny, Jiyue Zhao, Zi Wang.  
+- Haotang Li, **Zhenyu Qi**, Sen He, Kebin Peng, Sheng Tan, Yunchao Ren, Tomas Cerny, Jiawei Zhao, Zhengkun Wang.  
   *UWB-PostureGuard: A Privacy-Preserving RF Sensing System for Continuous Ergonomic Sitting Posture Monitoring*.  
   **Hawaii International Conference on System Sciences (HICSS 2026)**, 2026.
 
-- Yuantian Zhang, Weixia Cai, Huashan Chen, **Zhenyu Qi**, Hong Chen, Feng Liu, Sen He.  
-  *A Learning-Based POMDP Approach for Adaptive Cyber Defense Against Multi-Stage Attacks*.  
-  **International Conference on High Performance Computing and Communications (HPCC 2024)**, Dec 2024.
+- Xin Du, Shan Zhong, Shengrong Gong, Yali Si, **Zhenyu Qi**.  
+  *Enhancing Model Learning in Reinforcement Learning Through Q-Function-Guided Trajectory Alignment*.  
+  **Applied Intelligence**, 2025.
 
 - Wenjie Huang, Jinfu Chen, Huashan Chen, **Zhenyu Qi**, Xiaojia Yang, Kebin Peng, Sen He.  
   *A Study of Code Clone on Open Source VR Software*.  
-  **International Conference on Automated Software Engineering (ASE 2024)**, Oct 2024.
+  **Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering**, 2024.
 
-### Under Review
+- Yuantian Zhang, Weixia Cai, Huashan Chen, **Zhenyu Qi**, Hong Chen, Feng Liu, Sen He.  
+  *A Learning-Based POMDP Approach for Adaptive Cyber Defense Against Multi-Stage Attacks*.  
+  **The 26th IEEE International Conference on High Performance Computing and Communications**, 2024.
 
-- Muhid Hassan, Sujan Ghimire, Muntasir Mamun, Haotang Li, **Zhenyu Qi**, Tomas Cerny.  
-  *A Systematic Literature Review: Advancing Microservice Deployment Using Artificial Intelligence Techniques*.  
-  **Journal of Systems and Software**.
+### Preprints
 
-- Yifan Xu, Jinfu Chen, **Zhenyu Qi**, Huashan Chen, Junyi Wang, Pengfei Hu, Feng Liu, Sen He.  
-  *An Empirical Study on Virtual Reality Software Security Weaknesses*.  
-  **IEEE Transactions on Information Forensics and Security**.
+- Haotang Li, **Zhenyu Qi**, Sheng-Hao Wang, Kebin Peng, Zhengkun Wang, Qing Guo, Sen He, Huanrui Yang.  
+  *PaceVGGT: Pre-Alternating-Attention Token Pruning for Visual Geometry Transformers*.  
+  **arXiv:2605.08371**, 2026.
 
-- **Zhenyu Qi**, Huashan Chen, Haotang Li, Hong Chen, Jinfu Chen, Kebin Peng, In kee Kim, Kyu Hyung Lee, Sen He, Weiyi Shang.  
-  *Beyond Single Models: Enhanced Code Generation via a Performance-Guided LLM Ensemble*.  
-  **ACM Transactions on Software Engineering and Methodology**.
+- Haotang Li, Yunchao Ren, **Zhenyu Qi**, Sen He, Kebin Peng, Sheng Tan, Baichen Liu, Jiawei Zhao, Zhengkun Wang.  
+  *UWB-Fat: Non-Intrusive Body Fat Measurement Using Commodity Ultra-Wideband Radar*.  
+  **arXiv:2605.08403**, 2026.
+
+- **Zhenyu Qi**, Qian Zhang, Haotang Li, Sen He, Jianjun Wang.  
+  *Isolating Recurring Execution-Dependent Abnormal Patterns on NISQ Quantum Devices*.  
+  **arXiv:2604.17519**, 2026.
 
 - Kebin Peng, Haotang Li, **Zhenyu Qi**, Huashan Chen, Zi Wang, Wei Zhang, Sen He, Huanrui Yang, Qing Guo.  
   *PhysDepth: Plug-and-Play Physical Refinement for Monocular Depth Estimation in Challenging Environments*.  
-  **IEEE Transactions on Image Processing**.
+  **arXiv:2412.04666**, 2026.
 
-- Haotang Li, **Zhenyu Qi**, Hao Qin, Huanrui Yang, Sen He, Kebin Peng.  
-  *Bridging Structure and Appearance: Topological Features for Robust Self-Supervised Segmentation*.  
-  **European Conference on Computer Vision**.
+- Huashan Chen*, **Zhenyu Qi***, Haotang Li, Hong Chen, Jinfu Chen, Kebin Peng, In Kee Kim, Kyu Hyung Lee, Sen He, et al.  
+  *Multi-LLM Orchestration for High-Quality Code Generation: Exploiting Complementary Model Strengths*.  
+  **arXiv:2510.01379**, 2025.
+
+- Yifan Xu, Jinfu Chen, **Zhenyu Qi**, Huashan Chen, Junyi Wang, Pengfei Hu, Feng Liu, Sen He.  
+  *An Empirical Study on Virtual Reality Software Security Weaknesses*.  
+  **arXiv:2507.17324**, 2025.
+
+- Haotang Li, **Zhenyu Qi**, Hao Qin, Huanrui Yang, Kebin Peng, Qing Guo, Sen He.  
+  *MSSSeg: Learning Multi-Scale Structural Complexity for Self-Supervised Segmentation*.  
+  **arXiv:2512.23997**, 2025.
+
+- Md Hassan, Suman Ghimire, Md Mamun, Haotang Li, **Zhenyu Qi**, Tomas Cerny.  
+  *A Systematic Literature Review: Advancing Microservice Deployment Using Artificial Intelligence Techniques*.  
+  **SSRN 6170085**, 2025.
 
 ## Presentations
 
@@ -110,6 +124,10 @@ Profiles: [LinkedIn](https://www.linkedin.com/in/qzydustin/) · [DBLP](https://d
 
 ## Honors and Awards
 
+- **Research and Project (ReaP) Grant**  
+  Graduate and Professional Student Council, University of Arizona  
+  2026
+
 - **Herbold Fellowship**  
   The Herbold Foundation  
   2024
@@ -118,6 +136,6 @@ Profiles: [LinkedIn](https://www.linkedin.com/in/qzydustin/) · [DBLP](https://d
   College of Arts and Sciences, University of Wisconsin-Eau Claire  
   2021
 
-- **Second Prize Award**  
-  The 9th Blue Bridge Cup Jiangsu Provincial Software Competition (C/C++)  
+- **Second Prize**  
+  The 9th Lanqiao Cup Jiangsu Provincial Software Competition (C/C++)  
   2019
